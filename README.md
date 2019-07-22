@@ -1,4 +1,4 @@
-# majsoul
+# 雀魂 Flutter
 
 A new Flutter project.
 
