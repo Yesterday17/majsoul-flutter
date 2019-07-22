@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
       preferences = sp;
       String host = sp.getString('host') ?? 'majsoul.union-game.com';
       String path = sp.getString('path') ?? '/0/';
-      String port = sp.getString('port') ?? '80';
+      String port = sp.getString('port') ?? '443';
       bool isHttps = sp.getBool('isHttps') ?? true;
 
       hostController = TextEditingController(text: host);
