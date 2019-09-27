@@ -1,3 +1,5 @@
+# Deprecated!!! See https://github.com/Yesterday17/majsoul_android
+
 # 雀魂 Flutter
 
 A new Flutter project.
